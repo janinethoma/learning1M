@@ -72,6 +72,3 @@ The training data can be downloaded using:
 | Quadruplet | quadruplet_5e-6_all_conditions_angle_1-4_cu_LRD0.9-5_noPCA_lam0.5_me0 |
 | Lazy triplet | lazy_triplet_5e-6_all_conditions_angle_1-4_cu_LRD0.9-5_noPCA_lam0.5_me0 |
 | Lazy quadruplet | lazy_quadruplet_5e-6_all_conditions_angle_1-4_cu_LRD0.9-5_noPCA_lam0.5_me0 |
-
-Process finished with exit code 0
-
